@@ -1,8 +1,8 @@
 from telegram import Bot
 import time
 
-TOKEN = "YOUR_BOT_TOKEN"
-GROUP_ID = "@your_group_username"
+TOKEN = "8838024225:AAGvxHEpnML1YIXh4feTJWyU79rZwWGVYE0"
+GROUP_ID = "@Avto_xabarchiuzBot"
 
 bot = Bot(token=TOKEN)
 
